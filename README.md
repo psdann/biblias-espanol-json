@@ -1,19 +1,23 @@
 # Biblias en Español en formato JSON
 
-Este repositorio contiene varias versiones de la Biblia en español en formato JSON, facilitando su uso en aplicaciones, estudios bíblicos digitales, y proyectos de software.
+Este repositorio contiene versiones de la Biblia en español convertidas a formato JSON a partir de archivos XML obtenidos de biblia.com.
 
-Las versiones incluidas son de dominio público o cuentan con permisos para su distribución. Cada archivo JSON está estructurado para permitir una fácil navegación por libros, capítulos y versículos.
+El propósito de este proyecto es facilitar el acceso estructurado a los textos bíblicos para desarrolladores y proyectos que requieran integrar contenido bíblico en formato JSON.
 
-## Uso
+## Origen de los datos
 
-Puedes utilizar estos archivos para integrar la Biblia en tus aplicaciones web, móviles o de escritorio, realizar análisis de texto, o para cualquier proyecto que requiera acceso programático a la Biblia en español.
+Los archivos originales fueron descargados en formato XML desde beblia.com y posteriormente convertidos a JSON para facilitar su uso en aplicaciones y análisis.
 
-## Licencia
+## Uso y consideraciones legales
 
-Este proyecto utiliza versiones de la Biblia que son de dominio público o están autorizadas para su distribución. Por favor, revisa la licencia específica de cada versión incluida.
+Este repositorio es una herramienta para uso personal y de desarrollo. Se recomienda a los usuarios verificar las licencias y permisos correspondientes para el uso y distribución de los textos bíblicos, ya que los derechos de autor pueden estar vigentes según la versión y fuente.
+
+## Cómo usar
+
+Los archivos JSON están organizados por libros, capítulos y versículos, permitiendo una navegación sencilla y programática.
 
 ---
 
-Si tienes dudas o quieres contribuir, no dudes en abrir un issue o enviar un pull request.
+Si tienes dudas o sugerencias, por favor abre un issue.
 
-¡Gracias por usar y contribuir a este proyecto!
+Gracias por tu interés en este proyecto.
